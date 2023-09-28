@@ -8,6 +8,7 @@ This document lists the members of the Organization's Steering Committee. Voting
 |  Mohamed Kassem        | m.kassem@surrey.ac.uk         | University of Surrey, UK                    |
 |  Debopam Bhattacherjee | debopamb@microsoft.com        | Microsoft Research Lab India Pvt Ltd        |
 |  Aravindh Raman        | aravindh.raman@telefonica.com | Telefónica Investigación y Desarrollo, S.A. |
+| Andra Lutu             | andra.lutu@telefonica.com     | Telefónica Investigación y Desarrollo, S.A. |
 
 Note that the Steering Committee is only formed in the context of this github Organization and the project source code under it. The Steering Committee, Maintainers, or Contributors are in no way responsible for individual deployments using the source code or modifications of it.
 
